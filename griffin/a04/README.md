@@ -24,9 +24,9 @@
 |  <hr>   | <hr>                                                                  |  <hr>   |  <hr>  |
 | ***3*** | ***Results and Output***                                              | **60**  |        |
 |         |                                                                       |         |        |
-|   3.1   | A clear attempt was made to run queries.                              |   10    |        |
+|   3.1   | A clear attempt was made to run queries.                              |   15    |        |
 |   3.2   | Output was nicely formatted and easy to read.                         |   20    |        |
-|   3.3   | Output was correct.                                                   |   30    |        |
+|   3.3   | Output was correct.                                                   |   25    |        |
 |  <hr>   | <hr>                                                                  |  <hr>   |  <hr>  |
 | ***4*** | ***Bonus***                                                           | **+12**  |        |
 |         |                                                                       |         |        |
