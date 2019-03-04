@@ -28,12 +28,12 @@
 |   3.2   | Output was nicely formatted and easy to read.                         |   20    |        |
 |   3.3   | Output was correct.                                                   |   25    |        |
 |  <hr>   | <hr>                                                                  |  <hr>   |  <hr>  |
-| ***4*** | ***Bonus***                                                           | **+12**  |        |
+| ***4*** | ***Bonus***                                                           | **+16**  |        |
 |         |                                                                       |         |        |
-|   4.1   | Q1 Find average penalties per week.                                   |    3    |        |
-|   4.2   | Q2 Find the most penalized players.                                   |    3    |        |
-|   4.3   | Q3 Find the best 'away' team for every year.                          |    3    |        |
-|   4.4   | Q4 Find the best defense in the NFL.                                  |    3    |        |
+|   4.1   | Q1 Find average penalties per week.                                   |    4    |        |
+|   4.2   | Q2 Find the most penalized players.                                   |    4    |        |
+|   4.3   | Q3 Find the best 'away' team for every year.                          |    4    |        |
+|   4.4   | Q4 Find the best defense in the NFL.                                  |    4    |        |
 |  <hr>   | <hr>                                                                  |  <hr>   |  <hr>  |
 |         | Total:                                                                | **100** |        |
 
