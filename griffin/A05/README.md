@@ -36,4 +36,8 @@
 |         | spaced appropriately.                                                 |         |        |
 |   4.4   | Images are somewhat appealing by the standards of an average human.   |    5    |        |
 |  <hr>   | <hr>                                                                  |  <hr>   |  <hr>  |
+| ***5*** | ***Bonus***                                                           | **3**   |        |
+|         |                                                                       |         |        |
+|   5.1   | Fancy `sys.argv` handling with instructions for the user.             |   3     |        |
+|  <hr>   | <hr>                                                                  |  <hr>   |  <hr>  |
 |         | Total:                                                                | **100** |        |
