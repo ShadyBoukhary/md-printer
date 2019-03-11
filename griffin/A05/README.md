@@ -30,7 +30,7 @@
 |  <hr>   | <hr>                                                                  |  <hr>   |  <hr>  |
 | ***4*** | ***Results and Output***                                              | **40**  |        |
 |         |                                                                       |         |        |
-|   4.1   | Images are produced.                                                  |   15    |        |
+|   4.1   | Input images are processed and new ones are produced.                 |   15    |        |
 |   4.2   | Images are made up of colored text using custom characters.           |   10    |        |
 |   4.3   | Images are discernible from the original and characters are           |   10    |        |
 |         | spaced appropriately.                                                 |         |        |
